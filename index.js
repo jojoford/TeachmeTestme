@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+
 var express = require('express');
 var app = express();
 
@@ -12,3 +16,5 @@ app.get('*', function (request, response) {
 app.listen(app.get('port'), function () {
     console.log('Express server started on port', app.get('port'));
 });
+
+ReactDOM.render(<App />, document.getElementById("root"));
