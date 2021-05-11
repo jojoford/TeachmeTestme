@@ -3,8 +3,9 @@ working on searching videos from youtube and quizzes/test already available from
 
 mock up/ ideas
 ## 1. homescreen 
-</br>
+<br>
 [![Screenshot-20210510-171318-Chrome.jpg](https://i.postimg.cc/MZ05NKqX/Screenshot-20210510-171318-Chrome.jpg)](https://postimg.cc/jC5yJTWr)
+</br>
 ## 2. search topic 
 </br>
 [![Screenshot-20210510-173107-Gallery.jpg](https://i.postimg.cc/D0mzrwc5/Screenshot-20210510-173107-Gallery.jpg)](https://postimg.cc/V0Q111pb)
