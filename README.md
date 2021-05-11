@@ -1,3 +1,7 @@
 # TeachmeTestme
-
-https://mail.google.com/mail/u/0?ui=2&ik=127a90d565&attid=0.1&permmsgid=msg-a:r3699508840565100688&view=fimg&disp=thd&attbid=ANGjdJ957HnnSo4IvTcfbXSH3F4C4Y-eDZ6As_VbMaJOxmMvf8hPeno-dUI_jK4oYJ0p2bAj4mu2OTO_DjqaxmBGfZHgM3bOwgjMLJyT5xyFt-fp6Z13yHcYiw4BTVc&ats=2524608000000&sz=w1366-h657
+mock up/ ideas
+1. homescreen 
+[![Screenshot-20210510-171318-Chrome.jpg](https://i.postimg.cc/MZ05NKqX/Screenshot-20210510-171318-Chrome.jpg)](https://postimg.cc/jC5yJTWr)
+2. search topic  [![Screenshot-20210510-173107-Gallery.jpg](https://i.postimg.cc/D0mzrwc5/Screenshot-20210510-173107-Gallery.jpg)](https://postimg.cc/V0Q111pb)
+3. watch tutorial video then click "test me" or go to next video [![Screenshot-20210510-172114-You-Tube.jpg](https://i.postimg.cc/MGxKsDDn/Screenshot-20210510-172114-You-Tube.jpg)](https://postimg.cc/G47Ctv6R)
+4. Test me directs to quiz/exercise on skill learned [![Screenshot-20210510-172341-Grasshopper.jpg](https://i.postimg.cc/HLpd0LY5/Screenshot-20210510-172341-Grasshopper.jpg)](https://postimg.cc/mP6vBBF2)
